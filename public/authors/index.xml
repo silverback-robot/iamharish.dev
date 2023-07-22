@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on I am Harish</title>
+    <link>https://hello.iamharish.dev/authors/</link>
+    <description>Recent content in Authors on I am Harish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://hello.iamharish.dev/authors/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
